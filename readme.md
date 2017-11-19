@@ -1,5 +1,5 @@
-# Latdict-Wrapper
-An unofficial wrapper for Latdict, a Latin Dictionary at [http://www.latin-dictionary.net](http://www.latin-dictionary.net).
+# Pylatin
+An all encompassing Latin library written in python.
 ### To do:
 * Documentation
 * Additional features like: declining, conjugating, etc.
